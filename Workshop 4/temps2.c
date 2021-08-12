@@ -1,12 +1,6 @@
-/*
-Name: Arshia Rahim
-Student number: 112142161
-Email: Arahim5@myseneca.ca
-Workshop: 4
-Section: SJJ
-Date: 2017/feb/8
-*/
+/* Date: 2017/feb/8 */
 
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main(void)
