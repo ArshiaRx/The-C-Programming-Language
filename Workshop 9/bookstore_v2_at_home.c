@@ -1,8 +1,4 @@
-/* Name: Arshia Rahim
-Workshop: 9
-Date: 2017/04/04
-Section: SJJ
-*/
+/* Workshop: 9 (At_home) */
 #include <stdio.h>
 #define MAX_TITLE_SIZE 21
 
