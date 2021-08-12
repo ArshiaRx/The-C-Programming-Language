@@ -1,4 +1,4 @@
-/*Workshop 5*/
+/* Workshop: 5 (At_Home) */
 
 // Copy your source code from in_lab file to here
 // Expand the option list to include option 3 & 4 after 
