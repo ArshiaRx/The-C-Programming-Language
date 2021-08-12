@@ -1,4 +1,4 @@
-/* Workshop 1 */
+/* Workshop: 1 (At_home) */
 #include <stdio.h>
 
 int main(void)
