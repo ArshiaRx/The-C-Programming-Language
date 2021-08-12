@@ -1,12 +1,6 @@
-/*
-== Vehicle Rentals ==
+/*Workshop 6*/
 
-Author	: Arshia Rahim
-Date	: 07-03-2017
-Revision: 1.0
-Workshop: #6 at-Home
-
-*/
+// == Vehicle Rentals ==
 
 #include <stdio.h>
 
