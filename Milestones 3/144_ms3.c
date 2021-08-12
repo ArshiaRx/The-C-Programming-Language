@@ -1,6 +1,4 @@
-//Name: Arshia Rahim
 //Milestone: 3
-//Section: SJJ
 //Prof: Ian Tipson
 
 #define _CRT_SECURE_NO_WARNINGS
