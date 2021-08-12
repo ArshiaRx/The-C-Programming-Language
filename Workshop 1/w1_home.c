@@ -1,6 +1,4 @@
-//Name: Arshia Rahim
-//Student ID: 112142161
-
+/*Workshop 1*/
 #include <stdio.h>
 
 int main(void)
