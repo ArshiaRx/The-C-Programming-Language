@@ -1,11 +1,5 @@
-/*
-Name: Arshia Rahim
-Student number: 112142161
-Email: arahim5
-Workshop: 7 Home
-Section: SJJ
-Date: 2017/03/21
-*/
+/* Workshop: 7 At_Home */
+
 #include <stdio.h>
 #define MAX_SIZE 3
 
