@@ -1,7 +1,6 @@
-/*Name: Arshia Rahim
-Milestones: 1
-Section: SJJ
+/*Milestones: 1
 Prof: Ian Tipson*/
+
 #include <stdio.h>
 // tools
 void welcome(void);
