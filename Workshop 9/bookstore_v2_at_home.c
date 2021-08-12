@@ -1,11 +1,8 @@
+/* Workshop: 9 (At_Home) */
 #include <stdio.h>
 
 //Type the struct here
-
-
 //Type the function prototypes here
-
-
 
 int main()
 {
@@ -18,7 +15,6 @@ void menu()
 {
 
 }
-
 
 
 void displayInventory(const char filename[])
