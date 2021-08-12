@@ -1,10 +1,4 @@
-/* Name: Arshia Rahim
-Milestone: 2
-Section: SJJ
-Date: 2017/03/29
-Student_ID: 112142161
-Student_user: arahim5
-*/
+/* Milestone: 2 */
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
