@@ -1,4 +1,4 @@
-/*Workshop 6*/
+/* Workshop: 6 (At_Home) */
 
 // == Vehicle Rentals ==
 
