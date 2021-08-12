@@ -1,13 +1,9 @@
 /*
-Name: Arshia Rahim
-Student number: 112142161
-Email: Arahim5@myseneca.ca
-Workshop: 3
-Section: SJJ
 Date: 2017/feb/6
 */
 
 #include <stdio.h>
+#define _CRT_SECURE_NO_WARNINGS
 #define NUMS 4
 
 int main(void)
