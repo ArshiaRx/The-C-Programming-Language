@@ -1,11 +1,4 @@
-/*
-Name: Arshia Rahim
-Student number: 112142161
-Email: arahim5
-Workshop: 8
-Section: SJJ
-Date: 2017/03/28
-*/
+/* Workshop: 8 (At_Home) */
 
 #include <stdio.h>
 #define MAX_BOOKS 10
