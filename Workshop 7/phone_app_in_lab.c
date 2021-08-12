@@ -1,4 +1,4 @@
-/* Workshop: 7 At_Home */
+/* Workshop: 7 (At_Home) */
 
 #include <stdio.h>
 #define MAX_SIZE 3
