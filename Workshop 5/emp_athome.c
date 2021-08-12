@@ -11,9 +11,6 @@
 // functionality as per instructions
 // inside the relevant case statements
 #include <stdio.h>
-
-// Define Number of Employees "SIZE" to be 2
-
 #define SIZE 4	
 
 // Declare Struct Employee
@@ -22,7 +19,6 @@ struct Employee {
 	int empAge;
 	double empSalary;
 };
-
 
 /* main program */
 int main(void) {
