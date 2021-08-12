@@ -1,6 +1,4 @@
-/*
-Date: 2017/feb/6
-*/
+/*Workshop 3*/
 
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
