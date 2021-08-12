@@ -1,4 +1,4 @@
-//workshop 0
+/*workshop 0*/
 #include <stdio.h>
 
 int main(void)
