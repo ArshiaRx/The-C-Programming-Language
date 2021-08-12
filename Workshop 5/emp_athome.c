@@ -1,11 +1,4 @@
-/*
-Name: Arshia Rahim
-Student number: 112142161
-Email: arahim5@myseneca.ca
-Workshop: 5
-Section: SJJ
-Date: 2017/2/21
-*/
+/*Workshop 5*/
 
 // Copy your source code from in_lab file to here
 // Expand the option list to include option 3 & 4 after 
