@@ -1,4 +1,4 @@
-# IPC144 - The C Programming Language.
+# The C Programming Language - IPC144
 Fundamental principles of computer programming.
 * The language used in the projects is C code.
 * This course was taken in winter 2018 at Seneca College by Ian Tipson.
