@@ -4,6 +4,10 @@ This course covers the fundamental principles of computer programming, with an e
 * The language used in the projects is C Programming Language.
 * This course was taken in winter 2018 at Seneca College by Ian Tipson.
 
+
+### You may refer to my content, but COPYING it is strictly prohibited, as it would violate policy 60.
+-> W2018
+
 ## Contents Convered:
 
 * Introduction to Computer Programming
